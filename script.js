@@ -1,4 +1,4 @@
-var images = ['https://github.com/Devil501/images/blob/main/IMG_7975.jpeg?raw=true'];
+var images = ['https://github.com/Devil501/Devil501/blob/main/IMG_7975.jpeg?raw=true'];
 
 var currentIndex = 0;
 var totalClicks = 0;
